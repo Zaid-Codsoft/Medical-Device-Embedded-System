@@ -2,7 +2,7 @@
 
 #include <iostream>
 using namespace std;
-#include"22i-2513_DS.h"
+#include"Device_DS.h"
 
 
 int main()
